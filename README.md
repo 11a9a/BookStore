@@ -1,0 +1,1 @@
+This is a simple python desktop project that stores information about the books you have read. This project use SQLite for storing info which contains: Author, Title, Year and ISBN. You have add, update, delete, show all, and close options.
